@@ -5,3 +5,5 @@
 Para ejecutar el sistema debes poner:
 
 ```np acedi react```
+
+- Sistema de Registro 2 
